@@ -14,3 +14,11 @@
     git clone https://github.com/mvandrew/bx-gulp-scripts.git src/scripts
     
 Или просто скопированы файлы скриптов в каталог (каталог проекта)/src/scripts.
+
+## Конфигурационный файл
+Пример файла конфигурации config.default.js нужно переименовать в index.js и разместить в каталоге (каталог проекта)/src/config/.
+
+Таким образом, полный путь будет выглядеть:
+
+    (каталог проекта)/src/config/index.js
+
