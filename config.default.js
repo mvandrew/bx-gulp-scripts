@@ -1,7 +1,7 @@
 const path          = require("path");
 
-const rootPath      = path.join(__dirname, "../../..");
-const assetsPath    = path.join(__dirname, "../..", "assets");
+const rootPath      = path.join(__dirname, "../..");
+const assetsPath    = path.join(__dirname, "..", "assets");
 const templateName  = "templateName";
 
 module.exports      = {
